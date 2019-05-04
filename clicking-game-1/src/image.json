@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Steph Curry",
+    "image": "./images/steph-curry.jpg",
+    "occupation": "Three Point King",
+    "location": "Warriors"
+  },
+  {
+    "id": 2,
+    "name": "Lebron James",
+    "image": "./images/Lebron.jpg",
+    "occupation": "Great PLayer In The World",
+    "location": "Laker"
+  },
+  {
+    "id": 3,
+    "name": "Zion Williamson",
+    "image": "./images/Zion.image.jpg",
+    "occupation": "Up An Coming",
+    "location": "Duke"
+  },
+  {
+    "id": 4,
+    "name": "Dwyane Wade",
+    "image": "./images/D wade.jpg",
+    "occupation": "The Flash",
+    "location": "Heat"
+  },
+  {
+    "id": 5,
+    "name": "Klay Thompson",
+    "image": "./images/Klay.jpg",
+    "occupation": "Lights Out",
+    "location": "Warriors"
+  },
+  {
+    "id": 6,
+    "name": "Giannis Antetokounmpo",
+    "image": "./images/Antetokounmpo.jpg",
+    "occupation": "The Greek Freak",
+    "location": "Bucks"
+  },
+  {
+    "id": 7,
+    "name": "Anthony Davis",
+    "image": "./images/anthony.jpg",
+    "occupation": "The Brow",
+    "location": "Pelicans"
+  },
+  {
+    "id": 8,
+    "name": "Damian Lillard",
+    "image": "./images/damian.jpg",
+    "occupation": "Dame Time",
+    "location": "Trail Blazers"
+  },
+  {
+    "id": 9,
+    "name": "James Harden",
+    "image": "./images/James.jpg",
+    "occupation": "The Beard",
+    "location": "Rockets"
+  }
+
+]
